@@ -1,0 +1,6 @@
+,Amsterdam,Antwerp,Athens,Barcelona,Berlin
+Amsterdam,-,160,3082,1639,649
+Antwerp,160,-,2766,1465,723
+Athens,3082,2766,-,3312,2552
+Barcelona,1639,1465,3312,-,1899
+Berlin,649,723,2552,1899,-
